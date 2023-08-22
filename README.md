@@ -1,8 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 imagenes de la app en next 
-![image](https://github.com/Adansote/frontend-next-blog/assets/96309302/604fdd82-88bf-406a-b43b-7c0d0dd907ef)
-![image](https://github.com/Adansote/frontend-next-blog/assets/96309302/f92e477b-402f-46f8-b6ea-d70fa77b472a)
-![image](https://github.com/Adansote/frontend-next-blog/assets/96309302/a183e025-8873-4987-bdf1-6373c7266f26)
+
+![image](https://github.com/Adansote/frontend-next-blog/assets/96309302/df4146a0-403c-4ec3-a255-0ea50ac2cff7)
+
+![image](https://github.com/Adansote/frontend-next-blog/assets/96309302/1adf6174-fcf3-4045-872e-094e5eae5434)
+
+![image](https://github.com/Adansote/frontend-next-blog/assets/96309302/bdba14dc-f22d-472b-b47a-54cc261e53b8)
+
+![image](https://github.com/Adansote/frontend-next-blog/assets/96309302/f06a8bca-c457-4685-9f44-f99d4d8d07a8)
+![image](https://github.com/Adansote/frontend-next-blog/assets/96309302/c368e227-19ef-46d6-85af-1d5bfa97a5a4)
+
 
 
 

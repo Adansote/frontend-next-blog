@@ -1,9 +1,9 @@
-import { fetchApi } from '@/app/helpers/fetch-api';
+import { fetchApi } from '@/helpers/fetch-api';
 import { Post } from '@/interfaces/post';
 import React from 'react'
 import { notFound } from "next/navigation"
-import PageHeader from '@/app/components/PageHeader';
-import { formatDate } from '@/app/helpers/format-date-helper';
+import PageHeader from '@/components/PageHeader';
+import { formatDate } from '@/helpers/format-date-helper';
 import Image from 'next/image';
 import { MDXRemote } from "next-mdx-remote/rsc"
 import Link from 'next/link';

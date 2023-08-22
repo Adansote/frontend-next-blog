@@ -8,7 +8,7 @@ export default function Home() {
 
         {/* Contenido de la sección principal */}
         <div>
-          <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl font-bold">Blog Aplicacion En NEXT.JS</h1>
+          <h1 className="text-lg sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl font-bold">Blog & Book Store  Aplicacion En NEXT.JS</h1>
         </div>
 
         <div>

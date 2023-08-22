@@ -1,9 +1,9 @@
 import React from 'react'
-import { fetchApi } from '../helpers/fetch-api';
-import PageHeader from '@/app/components/PageHeader';
-import PageCardImage from '@/app/components/PageCardImage';
+import { fetchApi } from '../../helpers/fetch-api';
+import PageHeader from '@/components/PageHeader';
+import PageCardImage from '@/components/PageCardImage';
 import { Post } from '@/interfaces/post';
-import PagePagination from '../components/PagePagination';
+import PagePagination from '../../components/PagePagination';
 import { useSearchParams } from 'next/navigation';
 
 

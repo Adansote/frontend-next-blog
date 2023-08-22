@@ -1,7 +1,10 @@
 import './globals.css'
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
-
+import NextTopLoader from "nextjs-toploader"
+import PageTransition from '../components/PageTransition'
+import Header from '../components/Header'
+import CartProvider from '@/context/CartContext'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
@@ -17,8 +20,16 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
+        <NextTopLoader />
         <main className='container mx-auto max-w-2xl'>
-          {children}
+
+          <CartProvider>
+            <Header />
+            <PageTransition>
+              {children}
+            </PageTransition>
+          </CartProvider>
+
         </main>
 
       </body>
